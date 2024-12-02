@@ -291,6 +291,6 @@ If there's a need for it, I can actually fill this section, but I don't think it
 
 My brain hurts, can't wait for the [Nexus Mods App](https://github.com/Nexus-Mods/NexusMods.App). That's it, thanks for reading and have fun modding! 
 
-
+Feedback is welcome! Check my bio for Discord, or create an issue here.
 
 Video coming: idk, maybe never.
