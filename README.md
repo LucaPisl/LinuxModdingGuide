@@ -1,4 +1,8 @@
-# **How to install mods for Steam games on Linux using Vortex Mod Manager and SteamTinkerLaunch**
+# Notice: This guide is outdated as of 2026. SteamTinkerLaunch is no longer maintained. This guide will probably not work.
+
+If you're interested in modding Linux games, [Amethyst](https://github.com/ChrisDKN/Amethyst-Mod-Manager) is a good starting point.
+
+## **How to install mods for Steam games on Linux using Vortex Mod Manager and SteamTinkerLaunch**
 
 This guide assumes you already have a functional Steam installation with **Steam Play** enabled (for Proton compatibility). We'll be using **[Steam Tinker Launch (STL)](https://github.com/sonic2kk/steamtinkerlaunch)** to install and integrate [**Vortex Mod Manager**](https://www.nexusmods.com/about/vortex/), which will handle mod management. The most important thing is that I'll cover basically everything, including the symbolic link configurations required to ensure everything works seamlessly-ish.
 
